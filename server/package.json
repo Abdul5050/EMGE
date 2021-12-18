@@ -1,0 +1,29 @@
+{
+  "name": "emge",
+  "version": "1.0.0",
+  "description": "React expences app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abdul5050"
+  },
+  "keywords": [
+    "nodejs",
+    "reactjs",
+    "mysql"
+  ],
+  "author": "Tacman",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.0-beta.3"
+  }
+}
